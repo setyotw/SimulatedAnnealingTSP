@@ -1,6 +1,6 @@
 # Simulated Annealing for Traveling Salesman Problem
 
-This repository provides a code for implementing a simple simulated annealing algorithm with three different neighborhood moves to solve a traveling salesman problem.
+This repository provides a code for implementing a simple simulated annealing algorithm with three different neighborhood moves for solving traveling salesman problem.
 Note that this code is intented for illustration purpose, all the algorithm parameters are decided arbitrarily.
 
 ## Usage and Dependencies
