@@ -1,6 +1,3 @@
-# SimulatedAnnealing_TSP_Python
-A simple simulated annealing algorithm with three different neighborhood moves to solve a traveling salesman problem
-
 # Simulated Annealing for Traveling Salesman Problem
 
 This repository provides a code for implementing a simple simulated annealing algorithm with three different neighborhood moves to solve a traveling salesman problem.
